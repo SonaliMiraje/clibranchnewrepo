@@ -1,0 +1,6 @@
+5 tools are required to know when we are studying Devops
+Git
+Terraform
+Ansible
+Docker
+Kubernetes
