@@ -1,3 +1,0 @@
-I am learning devops.
-Devops is a software development apporch that combines operations and development teams 
-to improve collatration and deliver of software efficiently.
